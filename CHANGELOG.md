@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [11.1.0](https://github.com/material-components/material-components-web/compare/v11.0.0...v11.1.0) (2021-04-19)
+
+
+### Bug Fixes
+
+* **switch:** export temporary deprecated version ([bd68539](https://github.com/material-components/material-components-web/commit/bd685395b652f448e889c123cda97efd77c85fcd))
+
+
+### Features
+
+* **dialog:** removing call to `#close` within `#destroy`. ([5631828](https://github.com/material-components/material-components-web/commit/5631828e1541df22feb879a5310e57494ee722a3))
+* **tooltip:** Adds logic to determine valid position options for tooltip w/caret, and select which should be used. ([2ebfc53](https://github.com/material-components/material-components-web/commit/2ebfc537439508ea08bcd99991eed4fe838f3550))
+
+
+
+
+
 # [11.0.0](https://github.com/material-components/material-components-web/compare/v10.0.0...v11.0.0) (2021-04-15)
 
 
